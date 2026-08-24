@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mapping with Kids</title>
+<style>
+  :root {
+    --blue: #2563eb;
+    --blue-dark: #1d4ed8;
+    --amber: #d97706;
+    --ink: #111827;
+    --muted: #4b5563;
+    --paper: #f9fafb;
+    --border: #e5e7eb;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', Verdana, Arial, sans-serif;
+    color: var(--ink);
+    background: var(--paper);
+    line-height: 1.55;
+  }
+  header {
+    padding: 56px 20px 40px;
+    text-align: center;
+    background: linear-gradient(180deg, #eff6ff, var(--paper));
+    border-bottom: 1px solid var(--border);
+  }
+  .kicker {
+    color: var(--blue);
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+  }
+  h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin: 8px 0 10px;
+  }
+  .lede {
+    max-width: 560px;
+    margin: 0 auto;
+    color: var(--muted);
+    font-size: 1.1rem;
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+  .hero {
+    display: block;
+    max-width: 320px;
+    margin: 0 auto 48px;
+    border: 4px solid var(--ink);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  }
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+  }
+  a.card {
+    display: block;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    text-decoration: none;
+    color: var(--ink);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  }
+  a.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+    border-color: var(--blue);
+  }
+  .card .tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border-radius: 999px;
+    margin-bottom: 12px;
+  }
+  .card.intro .tag { color: var(--amber); background: #fef3c7; }
+  .card.exercise .tag { color: var(--blue-dark); background: #dbeafe; }
+  .card h2 { margin: 0 0 8px; font-size: 1.3rem; }
+  .card p { margin: 0 0 14px; color: var(--muted); font-size: 0.98rem; }
+  .card .go {
+    font-weight: 700;
+    color: var(--blue-dark);
+    font-size: 0.95rem;
+  }
+  .card .go::after { content: " \2192"; }
+  footer {
+    text-align: center;
+    padding: 30px 20px 50px;
+    color: #9ca3af;
+    font-size: 0.85rem;
+  }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="kicker">A hands-on GIS course</div>
+  <h1>Mapping with Kids</h1>
+  <p class="lede">
+    Learn how satellites see the Earth, then build a real map of India from
+    scratch using free, open-source tools.
+  </p>
+</header>
+
+<main>
+  <img class="hero" src="exercise1/screenshot/Map-of-India.png" alt="A finished satellite map of India with a black outline and scale bar">
+
+  <div class="cards">
+    <a class="card intro" href="Remote_Sensing_and_GIS_Intro.pdf">
+      <span class="tag">Start here</span>
+      <h2>Remote Sensing &amp; GIS Intro</h2>
+      <p>What satellites are, how they see the Earth, and what GIS software
+        actually does with their photos. A short read before your first map.</p>
+      <span class="go">Open the PDF</span>
+    </a>
+
+    <a class="card exercise" href="exercise1/Map_of_India_Tutorial.pdf">
+      <span class="tag">Exercise 1</span>
+      <h2>Map of India</h2>
+      <p>A step-by-step walkthrough in GeoLibre: load a country outline,
+        style it, switch to a satellite basemap, and export a finished map.</p>
+      <span class="go">Open the PDF</span>
+    </a>
+  </div>
+</main>
+
+<footer>
+  Built with GeoLibre and open geographic data.
+</footer>
+
+</body>
+</html>
