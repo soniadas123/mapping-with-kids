@@ -31,6 +31,13 @@ free and open-source web GIS tool.
     `msedge --headless --print-to-pdf=Near_or_Far_Tutorial.pdf Near_or_Far_Tutorial.html`
   - `data/my_city.csv` — a one-row starting point (Bangalore) that students
     change to their own city. Reuses the Exercise 1 and 2 data.
+- `exercise4/` — Exercise 4: exploring the Himalayas with 3D terrain.
+  - `Himalayas_3D_Tutorial.pdf` — the step-by-step tutorial.
+  - `Himalayas_3D_Tutorial.html` — the source for the PDF. Rebuild it from the
+    `exercise4/` folder with Edge:
+    `msedge --headless --print-to-pdf=Himalayas_3D_Tutorial.pdf Himalayas_3D_Tutorial.html`
+  - No new data: GeoLibre loads elevation tiles itself, and the India outline
+    is reused from Exercise 1.
 
 ## Note on large files
 
