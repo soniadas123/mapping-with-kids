@@ -7,7 +7,7 @@ free and open-source web GIS tool.
 
 ## What's here
 
-- `index.html` — the cover page, linking to both PDFs below.
+- `index.html` — the cover page, linking to the PDFs below.
 - `Remote_Sensing_and_GIS_Intro.pdf` — a short intro to remote sensing,
   satellites, and GIS, meant to be read before Exercise 1.
 - `exercise1/` — Exercise 1: building a map of India.
@@ -15,6 +15,22 @@ free and open-source web GIS tool.
   - `data/` — the GeoJSON boundary data used in the exercise (the large
     `.geojson` files are not tracked in this repo; see below).
   - `screenshot/` — reference screenshots from the exercise.
+- `exercise2/` — Exercise 2: putting famous places of India on the map.
+  - `Famous_Places_Tutorial.pdf` — the step-by-step tutorial.
+  - `Famous_Places_Tutorial.html` — the source for the PDF. Edit this,
+    then rebuild the PDF from the `exercise2/` folder with Edge:
+    `msedge --headless --print-to-pdf=Famous_Places_Tutorial.pdf Famous_Places_Tutorial.html`
+  - `screenshot/s2.png` — example image used on the cover. The steps have
+    no screenshots on purpose, so students build their own map.
+  - `data/famous_places.csv` — 16 landmarks with latitude and longitude.
+    The India outline is reused from Exercise 1.
+- `exercise3/` — Exercise 3: drawing distance zones (buffers) around your city.
+  - `Near_or_Far_Tutorial.pdf` — the step-by-step tutorial.
+  - `Near_or_Far_Tutorial.html` — the source for the PDF. Rebuild it from the
+    `exercise3/` folder with Edge:
+    `msedge --headless --print-to-pdf=Near_or_Far_Tutorial.pdf Near_or_Far_Tutorial.html`
+  - `data/my_city.csv` — a one-row starting point (Bangalore) that students
+    change to their own city. Reuses the Exercise 1 and 2 data.
 
 ## Note on large files
 
