@@ -1,0 +1,11 @@
+/* Course pictures sit in the middle of the page with a little space around them */
+.md-typeset img {
+  display: block;
+  margin: 1.5em auto 0.5em;
+  border-radius: 6px;
+}
+
+/* Tables without a header row (the schedule tables) */
+.md-typeset table:not([class]) thead:has(th:empty) {
+  display: none;
+}
