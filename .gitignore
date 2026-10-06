@@ -1,4 +1,6 @@
-exercise1/screenshot/exercise1.html
-exercise1/screenshot/exercise1.geolibre.json
-exercise1/data/*.geojson
+# Built website (published to the gh-pages branch by mkdocs gh-deploy)
+site/
+
+# Working files, kept locally only
+flyers/
 .claude/

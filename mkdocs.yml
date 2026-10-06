@@ -1,0 +1,48 @@
+site_name: Mapping with Kids
+site_description: Hands-on map making and coding courses and activities for children in Bengaluru, taught by a Geospatial Specialist.
+site_author: Sonia Das
+site_url: https://soniadas123.github.io/mapping-with-kids/
+copyright: Copyright &copy; 2026 Sonia Das
+
+nav:
+  - Home: index.md
+  - Courses:
+      - Mapping with Kids: courses/mapping-with-kids.md
+      - Dive into Python: courses/dive-into-python.md
+  - Activities:
+      - From Paper to Map: activities/from-paper-to-map.md
+
+theme:
+  name: material
+  font:
+    text: Nunito Sans
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
