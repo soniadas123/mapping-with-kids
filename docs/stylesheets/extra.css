@@ -20,7 +20,7 @@
   background: #fff;
 }
 
-/* Feedback page: photos shared by parents sit in a grid */
+/* Feedback page: pictures of children's maps and work sit in a grid */
 .md-typeset .photo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

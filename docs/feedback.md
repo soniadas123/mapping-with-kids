@@ -23,11 +23,12 @@ Form not showing?
 
 Testimonials from parents will appear here soon.
 
-## Photos from our sessions
+## Maps made by our students
 
-Photos shared by parents will appear here soon.
+Maps and other work shared by parents will appear here soon.
 
 ---
 
-Testimonials and photos are shared only with a parent's permission, as given
-in the form.
+**Our privacy policy:** we never show photos or names of enrolled children on
+this website. We only show children's maps and other work, and parents'
+testimonials, and only with a parent's permission, as given in the form.
