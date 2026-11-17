@@ -11,8 +11,8 @@ Specialist, Bengaluru.
 GIS (Geographic Information Systems) is the technology behind every map app,
 weather map and delivery route. In this course children use a free, web-based
 GIS tool to make their own maps from real data. They start with an outline of
-India and a satellite view, and by the last session they plan and build a map
-project of their own.
+India and a satellite view, and by the last session they turn their maps into
+interactive maps they can click and explore.
 
 No experience is needed. Each session builds on the one before it.
 
@@ -29,7 +29,7 @@ No experience is needed. Each session builds on the one before it.
 | 1 | **Map of India** | Outline, style and a satellite view. How satellites photograph the Earth, and what a map layer is. |
 | 2 | **Famous Places** | Landmarks as dots, coloured and labelled. How every place on Earth has an address made of latitude and longitude. |
 | 3 | **Near or Far?** | Distance zones around their own city. How to ask a map a question and get an answer. |
-| 4 | **Student Project** | Their own map project, from idea to finished map. |
+| 4 | **Interactive Maps** | Maps you can click, zoom and explore. How to turn their map into an interactive web map they can share. |
 
 ## What you need
 
@@ -45,7 +45,7 @@ No experience is needed. Each session builds on the one before it.
 | **Starts** | 24 October 2026 |
 | **Ages** | 9 to 13 |
 | **Fee** | Rs 2,000 per child, for all 4 sessions |
-| **Also included** | Lifelong mentorship |
+| **Also included** | Lifelong mentorship for a project of their choice. If your child gets curious about a topic and wants to explore it with maps, I will gladly guide them through it. |
 
 ## How to register
 
