@@ -9,3 +9,27 @@
 .md-typeset table:not([class]) thead:has(th:empty) {
   display: none;
 }
+
+/* Feedback page: the embedded Google Form fills the page width */
+.md-typeset iframe.feedback-form {
+  display: block;
+  width: 100%;
+  height: 1400px;
+  border: 0;
+  border-radius: 6px;
+  background: #fff;
+}
+
+/* Feedback page: photos shared by parents sit in a grid */
+.md-typeset .photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1em;
+}
+
+.md-typeset .photo-grid img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  margin: 0;
+}
