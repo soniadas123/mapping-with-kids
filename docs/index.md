@@ -72,3 +72,5 @@ full course needed.
 ## To know more
 
 Write to [sonia.geoai@gmail.com](mailto:sonia.geoai@gmail.com).
+
+Already joined a session? [Tell us how it went](feedback.md).
