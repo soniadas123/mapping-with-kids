@@ -18,7 +18,7 @@ No experience is needed. Each session builds on the one before it.
 
 ## Who is this for
 
-- Children aged **9 to 13**
+- Children aged **10+**
 - No prior mapping or computer experience needed
 - Curious about places, satellites, or how maps are made
 
@@ -43,7 +43,7 @@ No experience is needed. Each session builds on the one before it.
 |---|---|
 | **When** | 2 weekends, Saturday and Sunday, 1 hour each |
 | **Starts** | 24 October 2026 |
-| **Ages** | 9 to 13 |
+| **Ages** | 10+ |
 | **Fee** | Rs 2,000 per child, for all 4 sessions |
 | **Also included** | Lifelong mentorship for a project of their choice. If your child gets curious about a topic and wants to explore it with maps, I will gladly guide them through it. |
 

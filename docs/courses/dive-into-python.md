@@ -18,7 +18,7 @@ they can explore.
 
 ## Who is this for
 
-- Children aged **11 to 14**
+- Children aged **10+**
 - No coding experience needed
 
 ## In this course, your child will

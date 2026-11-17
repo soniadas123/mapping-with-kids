@@ -24,7 +24,7 @@ Courses run over several sessions, with each session building on the last.
 
     ---
 
-    Course &middot; Ages 9 to 13 &middot; 4 sessions over 2 weekends
+    Course &middot; Ages 10+ &middot; 4 sessions over 2 weekends
 
     Learn how satellites see the Earth, then build a real map of India from
     scratch.
@@ -37,7 +37,7 @@ Courses run over several sessions, with each session building on the last.
 
     ---
 
-    Course &middot; Ages 11 to 14 &middot; Coding
+    Course &middot; Ages 10+ &middot; Coding
 
     Learn to code by exploring maps and real data about the world around you.
 
@@ -58,7 +58,7 @@ full course needed.
 
     ---
 
-    Activity &middot; Ages 8 to 12 &middot; 2 hours, every Saturday
+    Activity &middot; Ages 10+ &middot; 2 hours, every Saturday
 
     Draw your streets on a paper map, then watch your drawing appear on a
     digital map of the world.

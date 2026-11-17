@@ -1,6 +1,6 @@
 # From Paper to Map
 
-**A mapping activity for ages 8 to 12**
+**A mapping activity for ages 10+**
 
 Become a neighbourhood mapper. Draw what you know about your streets on a paper
 map, then watch your drawing appear on a digital map of the world.
@@ -20,7 +20,7 @@ real map data.
 
 ## Who is this for
 
-- Children aged **8 to 12**
+- Children aged **10+**
 - No prior mapping or computer experience needed
 
 ## In two hours, your child will
@@ -39,7 +39,7 @@ map-making software to see everyone's drawings on one map.
 |---|---|
 | **When** | Every Saturday, from 24 October 2026 |
 | **Time** | 10 am to 12 noon (2 hours) |
-| **Ages** | 8 to 12 |
+| **Ages** | 10+ |
 
 !!! note "Please note"
     This activity involves walking around the neighbourhood and collecting
